@@ -5,7 +5,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/antoniomtnez?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/antoniomtnez?style=social)-->
 
-Soy ingeniero informático profesional desde hace más de nueve años. Me desempeño como desarrollador de aplicaciones moviles
+Soy ingeniero informático profesional desde hace más de nueve años. Me desempeño como desarrollador de aplicaciones móviles
 
 ## Formación académica:
 Ingeniero Informático. Universidad de Holguín “Oscar Lucero Moya”. Holguín, Cuba. 2013 
